@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 # Use Perl 5.34 or higher (needed for try/catch)
 use v5.34; 
 use strict;
